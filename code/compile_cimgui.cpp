@@ -1,0 +1,10 @@
+#define IMGUI_IMPL_API extern "C"
+#include "cimgui/imgui/imgui.h"
+//#include "cimgui/imgui/imgui_internal.h"
+//#include "cimgui/imgui/imgui_draw.cpp"
+#include "cimgui/imgui/imgui.cpp"
+//#include "cimgui/imgui/imgui_demo.cpp"
+//#include "cimgui/imgui/imgui_widgets.cpp"
+
+#include "cimgui/cimgui.h"
+#include "cimgui/cimgui.cpp"
